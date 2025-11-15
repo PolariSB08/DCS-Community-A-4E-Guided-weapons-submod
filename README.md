@@ -11,7 +11,7 @@ The Skyhawk doesn't have lasing capabilities, so the laser guided weapons must b
 you can use the HARMs as bigger and more capable shrikes (of coures you don't need to change the seeking head)
 
 How to install:
-exstract the A-4E.lua file and replace the original file in C:\Users\**your username**\Saved Games\DCS\Mods\aircraft\A-4E-C.
+extract the A-4E.lua file and replace the original file in C:\Users\**your username**\Saved Games\DCS\Mods\aircraft\A-4E-C.
 I sugget to use a mod manager.
 
 The A-4E-C.lua file i modified comes from the Community A-4E-C v2.3 (https://github.com/Community-A-4E/community-a4e-c/releases/tag/v2.3)
