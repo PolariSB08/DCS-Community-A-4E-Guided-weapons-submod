@@ -2,7 +2,7 @@
 
 This submod add laser guided weapons and HARM missiles tu the Community A-4E
 
-I 'm not the author of the whole A-4E-C.lua file. I only added the following weapons:
+I'm not the author of the whole A-4E-C.lua file. I only added the following weapons:
 - GBU-10/12/16 single and with double and triple racks
 - AGM-88C HARM
 - AKWS single and with double and triple racks
